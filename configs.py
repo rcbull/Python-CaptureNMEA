@@ -1,0 +1,13 @@
+# General
+
+GPS_RECONNECT_IN_SECONDS = 60
+
+# Linux Configs
+
+SERIAL_PORT = "/dev/ttyUSB0"
+SERIAL_BAUDRATE = 9600  # 57600 # 38400 # 19200
+
+# Windows Configs
+
+# SERIAL_PORT = "COM1"
+# SERIAL_BAUDRATE = 38400  # 57600 # 38400 # 19200
